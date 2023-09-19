@@ -1,0 +1,31 @@
+To have a better experience of the game, play the Hedwig Theme song in the background and continue with the game. Enjoy the game :-)
+
+STORYLINE:
+We have made a Harry Potter game using Python. In our game, the user is Harry Potter himself.
+It is set up in the Fifth Year of Hogwarts for the Golden Trio.
+Voldemort is back and has recently found out about the connection he shares with Harry through his lightning bolt mark.
+Umbridge is on a roll with introducing new decorum and trying to take over Hogwarts.
+Voldemort sends Harry a vision in which he has captured Sirius Black, Harry’s Godfather, in the Department of Mysteries.
+To save Sirius, Harry decides to go to the Ministry of Magic along with Ronald, Hermione, Ginny, Neville, and Luna.
+Here is where our game starts which is divided into 3 parts which we call phases.
+
+THE MINISTRY OF MAGIC:
+The first phase includes quiz solving which will allow Harry and the troop to go to the Ministry of Magic.
+At this point after entering the MOM and going to the Department of the Ministry, Harry realizes that it was a trap.
+Sirius was never here.
+Voldemort has deceived him.
+Despite knowing this the troop roams in search of the prophecy that Harry has seen in his dream.
+Here starts the second phase of our game.
+
+THE PROPHECY:
+The second phase includes a crossword completion which will help the troop to get the Prophecy.
+The moment Harry gets hold of the Prophecy; Death Eaters storm the Hall of Prophecy.
+Harry and the Troop manage to leave the Hall of Prophecy, but they enter the Death Chamber where each of the Harry Potter Troop members gets in a duel with the Death Eaters.
+Our game will focus only on the duel that Harry has with Bellatrix Lestrange. 
+This Spell Battle is our third phase.
+
+THE SPELL BATTLE:
+The third phase is the last phase where Harry i.e., the user duels against Bellatrix Lestrange.
+In this phase, the users will be given a few spells to use as either offensive or defensive.
+The spell they use will decide the damage Bellatrix’s spell did them.
+So, losing or winning is in the User’s hands.
